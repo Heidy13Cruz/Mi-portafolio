@@ -1,0 +1,19 @@
+header{
+    background-color: thistle;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding:2%;
+    font-size:35;
+}
+footer{
+    background-color: aliceblue;
+    padding: 1%;
+    text-align: center;
+}
+
+p{
+    text-align: right;
+}
+a{
+    display: flex;
+    justify-content: flex-end;
+}
